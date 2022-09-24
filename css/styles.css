@@ -19,8 +19,8 @@
 .jumbotron{
     padding: 70px 30px 70px 30px;
     margin: 0px auto;
-    background: #9575CD;
-    color: floralwhite;
+    background: #736884;
+    color: rgb(59, 50, 32);
 }
 
 .address{
@@ -38,3 +38,51 @@ body{
 .navbar-dark{
     background-color: #512DAB;
 }
+
+.reserveee{
+    /* padding-top: -20px; */
+    margin-top: -20px;
+    margin-bottom: 10px;
+    background-color: rgb(244, 190, 124);
+}
+#jubmo{
+    /* margin-left: 25%; */
+    /* margin-right: 25%; */
+    width: 60%;
+    height: 20%;
+}
+
+/* .tab-content {
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+} */
+
+b{
+    color: black;
+}
+
+/* carousel starts here */
+.carousel {
+    background:#512DA8;
+}
+
+.carousel-item {
+  height: 300px;
+}
+
+.carousel-item img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-height: 300px;
+}
+
+#carouselButton {
+    right:0px;
+    position: absolute;
+    bottom: 0px;
+    z-index: 1;
+}
+/* carousel ends here */
